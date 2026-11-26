@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" width="280" height="280">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="140" cy="140" r="140" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#circleClip)">
+    <rect width="280" height="280" fill="#E6EEF5" />
+    <circle cx="140" cy="140" r="118" fill="#DCE6F0" />
+    <!-- Hair back -->
+    <path d="M84 128c0-38 25-64 56-64s56 26 56 64v46c0 12-8 22-18 22H102c-10 0-18-10-18-22z" fill="#0B132B" />
+    <!-- Shoulders / Blazer -->
+    <path d="M52 280c8-46 42-70 88-70s80 24 88 70z" fill="#3A506B" />
+    <path d="M114 212l26 34 26-34c-16-4-36-4-52 0z" fill="#F3F6F9" />
+    <!-- Neck -->
+    <rect x="124" y="176" width="32" height="38" rx="14" fill="#E2B99B" />
+    <!-- Face -->
+    <ellipse cx="140" cy="134" rx="40" ry="48" fill="#ECC7AC" />
+    <!-- Hair front / bangs -->
+    <path d="M98 122c4-32 24-50 48-50 22 0 40 16 44 46-14-14-30-22-48-22-18 0-32 10-44 26z" fill="#0B132B" />
+    <!-- Subtle facial features -->
+    <circle cx="124" cy="136" r="3.2" fill="#0B132B" />
+    <circle cx="156" cy="136" r="3.2" fill="#0B132B" />
+    <path d="M128 156c7 6 17 6 24 0" fill="none" stroke="#8C5A44" stroke-width="2.6" stroke-linecap="round" />
+  </g>
+</svg>
